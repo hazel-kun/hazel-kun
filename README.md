@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on RSUD Pasar Rebo
-- 🌱 I’m currently learning Big Data
+- 🌱 I’m currently learning Android
 
 
 
